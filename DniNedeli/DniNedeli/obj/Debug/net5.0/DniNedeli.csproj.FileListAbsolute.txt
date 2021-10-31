@@ -1,0 +1,16 @@
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\obj\Debug\net5.0\DniNedeli.csproj.AssemblyReference.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\obj\Debug\net5.0\DniNedeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\obj\Debug\net5.0\DniNedeli.AssemblyInfoInputs.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\obj\Debug\net5.0\DniNedeli.AssemblyInfo.cs
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\obj\Debug\net5.0\DniNedeli.csproj.CoreCompileInputs.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\bin\Debug\net5.0\DniNedeli.exe
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\bin\Debug\net5.0\DniNedeli.deps.json
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\bin\Debug\net5.0\DniNedeli.runtimeconfig.json
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\bin\Debug\net5.0\DniNedeli.runtimeconfig.dev.json
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\bin\Debug\net5.0\DniNedeli.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\bin\Debug\net5.0\ref\DniNedeli.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\bin\Debug\net5.0\DniNedeli.pdb
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\obj\Debug\net5.0\DniNedeli.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\obj\Debug\net5.0\ref\DniNedeli.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\obj\Debug\net5.0\DniNedeli.pdb
+C:\Users\nvrsk\Desktop\VirtualStudio\DniNedeli\DniNedeli\DniNedeli\obj\Debug\net5.0\DniNedeli.genruntimeconfig.cache
